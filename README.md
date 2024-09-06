@@ -13,7 +13,7 @@
 
 ## Description
 
-In this game, you are on a quest to retrieve five lost relics, each guarded by a challenging riddle. You have three attempts to guess the correct answer to each riddle. Correct answers will allow you to claim a relic, while incorrect answers will eventually result in game over. Each riddle increases in difficulty, testing your problem-solving skills and creativity.
+In this game, you are on a quest to retrieve five lost relics, each guarded by a challenging riddle. You have three attempts to guess the correct answer to each riddle. Correct answers will allow you to claim a relic, while incorrect answers will eventually result in game over.
 
 ## Gameplay
 
